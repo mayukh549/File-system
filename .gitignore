@@ -1,0 +1,8 @@
+.vscode/
+html/
+test*
+main
+TODO.md
+*.txt
+*.docx
+*.pdf
